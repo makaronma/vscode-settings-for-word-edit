@@ -1,0 +1,1 @@
+# vscode-settings-for-word-edit
