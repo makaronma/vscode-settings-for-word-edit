@@ -1,7 +1,7 @@
 # vscode-settings-for-word-edit
 
 <p align="center">
-  <img src="preview.png" width="350">
+  <img src="preview.png" width="700">
 </p>
 
 ```json
